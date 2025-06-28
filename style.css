@@ -1,0 +1,139 @@
+.navigation {
+    overflow: hidden;
+    background-color: #F1A247;
+    padding: 20px 20px;
+  }
+
+  .navigation .menu_button {
+    float: center;
+    color: white;
+    background-color: #8E4D0B;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 10px;
+  }
+  
+  .navigation .menu_button:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navigation .menu_button.active {
+    background-color: black;
+    color: white;
+  }
+
+body{
+  margin: 0;
+}
+
+h1{
+  color: #ee8813;
+  font: Bebas Neue;
+}
+
+.design_button{
+  background-color: #f8901a;
+  color: white;
+  padding: 30px 50px;
+  border-color: #f8901a;
+  border-radius: 15px;
+}
+
+.about_information h1{
+  padding-left: 60px;
+}
+
+.about_information h2{
+  padding-left: 95px;
+}
+
+.game_link {
+   color: #b15d09;
+   text-decoration: none;
+}
+
+.game_header {
+  text-decoration: underline;
+  color: #ee8813;
+}
+
+
+.ad{
+  color: #b15d09;
+}
+
+.ad1{
+  color: #b15d09;
+  text-decoration: underline;
+}
+
+.home_design{
+  padding: 30px;
+  height: 400;
+  width: 350;
+  background-color: #f87d03d2;
+}
+
+.home_design h1{
+  color:rgb(250, 199, 140);
+}
+
+.new_ad{
+  position: absolute;
+  top: 120;
+  right: 30;
+  background-color: #f8901a;
+  height: 450;
+  width: 400;
+
+}
+
+.new_ad img{
+  top: 20px;
+}
+
+.new{
+  position: absolute;
+  top: 120;
+  right: 500;
+  background-color:#b15d09;
+  height: 450;
+  width: 300;
+}
+
+.games_groups{
+  background-color: rgb(218, 145, 9);
+  width: 240px;
+  height: 517px;
+  position: absolute;
+  top: 90;
+  right: 0;
+}
+
+body{
+  background-color: rgb(250, 199, 140);
+}
+
+.groups{
+  padding-left: 30px;
+}
+
+.groups a{
+  text-decoration: none;
+  color: white;
+}
+
+.stm_design{
+  position: absolute;
+  top: 235px;
+  right: 750px;
+}
+
+.src_design{
+  position: absolute;
+  top: 235px;
+  right: 480px;
+}
